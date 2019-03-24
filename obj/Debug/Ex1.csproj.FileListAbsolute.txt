@@ -1,0 +1,6 @@
+C:\Users\Yuval\Documents\תכנות מתקדם 2\משימות להגשה מתקדם 2\יובל\Ex1\Ex1\bin\Debug\Ex1.exe.config
+C:\Users\Yuval\Documents\תכנות מתקדם 2\משימות להגשה מתקדם 2\יובל\Ex1\Ex1\obj\Debug\Ex1.csprojResolveAssemblyReference.cache
+C:\Users\Yuval\Documents\תכנות מתקדם 2\משימות להגשה מתקדם 2\יובל\Ex1\Ex1\bin\Debug\Ex1.exe
+C:\Users\Yuval\Documents\תכנות מתקדם 2\משימות להגשה מתקדם 2\יובל\Ex1\Ex1\bin\Debug\Ex1.pdb
+C:\Users\Yuval\Documents\תכנות מתקדם 2\משימות להגשה מתקדם 2\יובל\Ex1\Ex1\obj\Debug\Ex1.exe
+C:\Users\Yuval\Documents\תכנות מתקדם 2\משימות להגשה מתקדם 2\יובל\Ex1\Ex1\obj\Debug\Ex1.pdb
